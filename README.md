@@ -1,4 +1,4 @@
-Password Generator
+**Password Generator**
 Ephemeral Generation: Passwords exist temporarily and are auto-cleared
 
 Secure Randomness: Uses Web Crypto API for cryptographically secure passwords
@@ -7,7 +7,7 @@ Customizable: Adjust length (8-32 chars) and character sets
 
 Auto-Hide: Passwords automatically hide after 30 seconds
 
-Password Checker
+**Password Checker**
 Real-time Strength Analysis: Instant feedback as you type
 
 Entropy Calculation: Measures password randomness mathematically
@@ -18,7 +18,7 @@ Breach Checking: Compares against known compromised passwords
 
 Detailed Requirements: Shows what makes a password strong
 
-Security Dashboard
+**Security Dashboard**
 Memory Monitoring: Tracks password presence in memory
 
 Clipboard Safety: Alerts when passwords are in clipboard
