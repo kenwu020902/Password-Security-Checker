@@ -3,7 +3,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize all modules
     initPasswordGenerator();
     initPasswordChecker();
-    initSecurityDashboard();
     
     // Set up event listeners
     setupEventListeners();
@@ -78,8 +77,6 @@ function clearAllData() {
     document.getElementById('countdown').textContent = '--:--';
     document.getElementById('timerDisplay').style.display = 'none';
     
-    // Update dashboard
-    updateDashboard();
     
     // Show confirmation
     showToast('✅ All data cleared from memory');
